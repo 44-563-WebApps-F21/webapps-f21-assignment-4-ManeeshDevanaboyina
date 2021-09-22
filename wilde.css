@@ -1,0 +1,47 @@
+.speech{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color: black;    
+}
+
+.stagedirections
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: lightblue;
+    color: black;
+}
+
+
+.name{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: black; 
+
+}
+
+.hover:hover{
+    background-color: blue;
+    color: brown;
+}
+
+.VERA{
+    color: cyan;
+}
+
+.CONSPS{
+    color: blueviolet;
+
+}
+
+.PRINCEPAUL{
+
+    color: chocolate;
+}
+
+.PRES{
+    color: darkgreen;
+}
+
+

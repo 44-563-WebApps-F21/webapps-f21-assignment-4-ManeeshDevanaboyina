@@ -72,14 +72,15 @@ tr:nth-child(even) {background-color:lightblue}
 
 }
 
-.navbonus{
+.bonus1{
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-.itemsnav{
+.bonus2{
+    
     float: left;
 }
 
@@ -88,4 +89,3 @@ li a {
     padding: 8px;
     background-color: #dddddd;
   }
-
